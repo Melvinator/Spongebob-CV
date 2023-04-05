@@ -7,6 +7,7 @@
 h1 {
     font-family: "peralta";
     font-size: 40px;
+    color: #000000;
 }
 
 img {
@@ -20,6 +21,7 @@ img {
     font-family: "open sans";
     font-weight: 500px;
     font-size: 30px;
+    color: #000000;
 }
 
 .header {
@@ -29,6 +31,7 @@ img {
     justify-content: end;
     align-items: center;
     border-bottom: 4px solid #000000;
+    text-decoration: none;
 }
 
 .header-text {
